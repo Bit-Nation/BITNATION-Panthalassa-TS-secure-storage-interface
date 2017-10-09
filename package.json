@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/Bit-Nation/BITNATION-Panthalassa-TS-secure-storage-interface.git"
   },
+  "scripts": {
+    "build" : "tsc"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
