@@ -4,15 +4,15 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bit-Nation/Panthalassa-TS-secure-storage-interface.git"
+    "url": "git+https://github.com/Bit-Nation/BITNATION-Panthalassa-TS-secure-storage-interface.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bit-Nation/Panthalassa-TS-secure-storage-interface/issues"
+    "url": "https://github.com/Bit-Nation/BITNATION-Panthalassa-TS-secure-storage-interface/issues"
   },
-  "homepage": "https://github.com/Bit-Nation/Panthalassa-TS-secure-storage-interface#readme",
+  "homepage": "https://github.com/Bit-Nation/BITNATION-Panthalassa-TS-secure-storage-interface#readme",
   "dependencies": {
     "typescript": "^2.5.3"
   }
