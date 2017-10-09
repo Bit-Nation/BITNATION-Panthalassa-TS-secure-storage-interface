@@ -1,0 +1,19 @@
+{
+  "name": "BITNATION-Panthalassa-TS-secure-storage-interface",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bit-Nation/Panthalassa-TS-secure-storage-interface.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bit-Nation/Panthalassa-TS-secure-storage-interface/issues"
+  },
+  "homepage": "https://github.com/Bit-Nation/Panthalassa-TS-secure-storage-interface#readme",
+  "dependencies": {
+    "typescript": "^2.5.3"
+  }
+}
